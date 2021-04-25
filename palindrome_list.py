@@ -1,5 +1,7 @@
 '''
 Lab 12 1
+
+https://github.com/iamthewalrus67/palindromes
 '''
 
 from arraystack import ArrayStack
